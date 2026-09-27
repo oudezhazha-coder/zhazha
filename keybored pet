@@ -1,0 +1,24 @@
+keyboard-pet/                     
+├── .gitignore                  
+├── package.json                  
+├── package-lock.json             
+├── README.md                    
+│
+├── main.js                    
+├── preload.js                   
+│
+├── renderer/
+│   ├── index.html             
+│   ├── styles.css                
+│   ├── app.js                    
+│   ├── settings.html            
+│   ├── settings.js               
+│   └── settings.css            
+│
+├── resources/
+│   ├── icon.ico                  
+│   ├── pet-1.png ～ pet-5.png    
+│   └── demo/                    
+│
+└── build/
+    └── icon.ico
